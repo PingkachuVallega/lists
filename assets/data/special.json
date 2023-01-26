@@ -1,0 +1,69 @@
+[
+    {
+        "pay": "PN Center",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    } ,
+    {
+        "pay": "Palawan",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    },
+    {
+        "pay": "M Lhuillier",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    },
+    {
+        "pay": "Gcash",
+        "form": "Online Payment",
+        "hours": " Open 24 hours"
+    },
+    {
+        "pay": "PayMaya",
+        "form": "Online Payment",
+        "hours": " Open 24 hours"
+    },
+    {
+        "pay": "Cebuana",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    },
+    {
+        "pay": "RD Pawnshop",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    },
+    {
+        "pay": "7 Eleven",
+        "form": "Over the counter",
+        "hours": "Open 24 hours"
+    },
+    {
+        "pay": "VILLARICA PAWNSHOP",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    },
+    {
+        "pay": "BDO OTC",
+        "form": "Over the counter",
+        "hours": "Open 8am to 6pm"
+    },
+    {
+        "pay": "Visa/Mastercard",
+        "form": "Online Payment",
+        "hours": " Open 24 hours"
+    },
+    {
+        "pay": " BDO ONLINE",
+        "form": "Online Payment",
+        "hours": " Open 24 hours"
+    } ,
+    {
+        "pay": " BDO ATM",
+        "form": "ATM",
+        "hours": " Open 24 hours"
+    } 
+    
+   
+  ]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Jackline Joy",
+        "id": "Female",
+        "email": "Sri Lanak"
+    },
+    {
+        "name": "Arjun",
+        "id": "Male",
+        "email": "India"
+    },
+    {
+        "name": "Kavitha Kumar",
+        "id": "Female",
+        "email": "India"
+    },
+    {
+        "name": "John Snow",
+        "id": "Male",
+        "email": "United Kingdom"
+    },
+    {
+        "name": "Priya kanana",
+        "id": "Female",
+        "email": "India"
+    },
+    {
+        "name": "Shri Devi",
+        "id": "Female",
+        "email": "Sri Lanka"
+    },
+    {
+        "name": "Richard Roy",
+        "id": "Male",
+        "email": "France"
+    },
+    {
+        "name": "Sonu Nigam",
+        "code": "Male",
+        "email": "India"
+    },
+    {
+        "name": "Priya Dutt",
+        "code": "Female",
+        "email": "USA"
+    }
+]
